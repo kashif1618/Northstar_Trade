@@ -5,7 +5,7 @@ A modern stock trading web application inspired by Zerodha Kite, designed to pro
 ## Tech Stack
 
 - React.js
-- TypeScript
+- JavaScript
 - Vite
 - Supabase
 - SQL
